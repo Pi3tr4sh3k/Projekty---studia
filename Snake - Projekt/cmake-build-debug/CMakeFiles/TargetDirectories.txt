@@ -1,0 +1,3 @@
+D:/STUDIA/CLionProjects/Snake2/cmake-build-debug/CMakeFiles/Snake2.dir
+D:/STUDIA/CLionProjects/Snake2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDIA/CLionProjects/Snake2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

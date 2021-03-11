@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PacMan2.dir/objects.a
+C:\cpp\mingw64\bin\ar.exe cr CMakeFiles\PacMan2.dir/objects.a @CMakeFiles\PacMan2.dir\objects1.rsp
+C:\cpp\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PacMan2.dir/objects.a -Wl,--no-whole-archive  -o PacMan2.exe -Wl,--out-implib,libPacMan2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PacMan2.dir\linklibs.rsp
